@@ -286,6 +286,18 @@ blockquote {
     margin-top: 2rem;
 }
 
+.name, .career {
+    font-size: 23px;
+}
+
+.name {
+    font-weight: 600;
+}
+
+.career {
+    font-weight: 100;
+}
+
 
 /* FOOTER */
 
@@ -320,6 +332,12 @@ footer {
     color: #00BABA;
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
+}
+
+.paragraph-footer {
+    text-align: center;
+    color: #ffffff;
+    word-spacing: 2px;
 }
 
 
