@@ -135,6 +135,29 @@ section {
     animation-fill-mode: backwards;
 }
 
+.contact-me {
+    list-style: none;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.contact-link {
+    color: #00BABA;
+}
+
+.contact-list {
+    display:flex;
+    padding-bottom: 10px;
+}
+
+.contact-text {
+    font-size: 18px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+
+
 /* .hero__btn {
     padding: 0.6rem 2.7rem;
     color: #ffffff;
