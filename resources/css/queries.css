@@ -12,7 +12,7 @@
     .hero__right {
         margin-top: 40px!important;
         text-align: center!important;
-        margin-left: 40px!important;
+        margin-left: 10px!important;
     }
 
     .hero__text, .hero__text__next, .about__heading, .project__heading {
@@ -68,7 +68,7 @@
         list-style: none;
         padding-top: 20px;
         font-size: 25px;
-        text-align: center
+        text-align: center;
     }
     .contact-text {
         font-size: 15px;
