@@ -180,7 +180,7 @@ section {
 }
 .about__img {
     width: 350px;
-    height: 300px;
+    height: 450px;
     filter: brightness(0.6);
     border-radius: 4px;
 }
@@ -190,7 +190,7 @@ section {
     font-weight: 600;
 }
 .about__paragraph {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 /* SERVICE */
