@@ -191,6 +191,17 @@ section {
 }
 .about__paragraph {
     font-size: 18px;
+    text-align: justify;
+}
+
+.s-mail {
+    font-weight: 700;
+    color: #00BABA;
+}
+.s-mail:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #00BABA;
 }
 
 /* SERVICE */
