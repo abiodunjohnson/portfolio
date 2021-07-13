@@ -54,6 +54,8 @@ section {
     height: 20opx;
 }
 
+
+
 .hero__text {
     font-size: 30px;
     font-weight: 600;
@@ -134,7 +136,12 @@ section {
     animation: moveInBottom .5s ease-out .75s;
     animation-fill-mode: backwards;
 }
-
+/* .contact-container {
+    
+} */
+.contact-container:hover {
+    text-decoration: none!important;
+}
 .contact-me {
     list-style: none;
     padding-top: 20px;
@@ -152,8 +159,10 @@ section {
 
 .contact-text {
     font-size: 18px;
-    margin-left: 10px;
+    /* padding: 10px; */
+    padding-left: 10px;
     font-weight: 600;
+    color: #0f0f0f;
 }
 
 
@@ -183,6 +192,7 @@ section {
     height: 450px;
     filter: brightness(0.6);
     border-radius: 4px;
+    margin-top: 4rem;
 }
 
 .about__heading {
@@ -192,6 +202,22 @@ section {
 .about__paragraph {
     font-size: 18px;
     text-align: justify;
+}
+
+.job-link {
+    font-weight: 700;
+    color: #00BABA;
+}
+
+.s-site {
+    font-weight: 700;
+    color: #00BABA!important;
+}
+
+.s-site:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #00BABA;
 }
 
 .s-mail {
