@@ -18,3 +18,7 @@ window.scroll({
   document.querySelector('.section__project').scrollIntoView({ 
     behavior: 'smooth' 
   });
+
+  new Date().getFullYear()
+
+  document.getElementById("year").innerHTML = new Date().getFullYear();
